@@ -142,10 +142,10 @@ const Main = () => {
            
             <Center click={click}>
                 <YinYang  onClick={()=> handleClick()} width={click ? 120 : 200} height={click ? 120 : 200} fill='currentColor' />
-                <span>click here</span>
+                
             </Center>
 
-            <Contact target="_blank" to={{pathname:"mailto:codebucks27@gmail.com"}}>
+            <Contact target="_blank" to={{pathname:"mailto:bkcsplayer@gmail.com"}}>
                 <motion.h2
                 initial={{
                     y:-200,
@@ -159,7 +159,7 @@ const Main = () => {
                 whileTap={{scale: 0.9}}
                 
                 >
-                    Say hi..
+                    Hi My Name Is Cool
                 </motion.h2>
             </Contact>
             <BLOG to="/blog">

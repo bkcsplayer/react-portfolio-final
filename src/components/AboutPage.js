@@ -72,11 +72,20 @@ const AboutPage = () => {
             <img src={astronaut} alt="spaceman" />
         </Spaceman>    
         <Main>
-        I'm a front-end developer located in India. I love to create simple yet beautiful websites with great user experience.
+        I am a freelance programmer. What I can do for you is to convert your ideas into programs.
+Improve work efficiency.
 <br /> <br/>
-I'm interested in the whole frontend stack Like trying new things and building great projects. I'm an independent freelancer and blogger. I love to write blogs and read books.
+Web page, E-commerce system construction Mobile App Web App Wechat mini App
+
+Please contact me right away so we can start solving your problem right away.
 <br/> <br/>
-I believe everything is an Art when you put your consciousness in it. You can connect with me via social links.
+If you need<br/>
+E-commerce establishment<br/>
+Mobile App<br/>
+Web App<br/>
+Customized management system<br/>
+Website<br/>
+UI/UX Design<br/>
         </Main>
 
         <BigTitle text="ABOUT" top="10%" left="5%" />

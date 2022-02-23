@@ -3,59 +3,59 @@
 export const Work = [
     {
         id:1,
-        name:"Agency Landing Page",
-        description:"It is build on top of the React JS, with styledComponents and GSAP for smooth scrolling animations.",
-        tags:["react","gsap","styledComponents"],
+        name:"Full Stack Project",
+        description:"A customized company management system with targeted problem solving",
+        tags:["react",".NET","Amzon AWS"],
         
-        demo:"https://agency-website-eta.vercel.app/",
-        github:"https://github.com/codebucks27/Agency-website"
+        demo:"https://www.youtube.com/watch?v=Pv0biiVlJto",
+        github:""
     },
     {
         id:2,
-        name:"Job listing website",
-        description:"A Job listing website build in ReactJS. With searching and filtering functionalities.",
-        tags:["react","sass"],
+        name:"E-commerce App",
+        description:"Small program mini-app, built-in and WeChat App, with a very high user experience. Using with the official account is the best weapon for enterprise development.",
+        tags:["Wechat"],
         
         demo:"http://react-job-listing-website.codebucks27.vercel.app/",
-        github:"https://github.com/codebucks27/react-job-listing-website"
+        github:""
         
     },
     {
         id:3,
-        name:"Dev.to Clone",
-        description:"A clone of Dev.to build using ReactJS. With realtime fetching of articles from dev.to using API.",
-        tags:["react","api","sass"],
+        name:"Web Design",
+        description:"Lightweight and fast response",
+        tags:["Wordpress","React"],
         
         demo:"http://devto-clone-codebucks27.vercel.app/",
-        github:"https://github.com/codebucks27/devto-clone"
+        github:""
     },
     {
         id:4,
-        name:"Sidebar Menu",
-        description:"A cool looking sidebar menu build using ReactJS and styledComponents.It has really smooth animations.",
-        tags:["react","styledComponents","react-router"],
+        name:"Projects",
+        description:"Demo-1",
+        tags:["react"],
         
-        demo:"https://react-sidebar.vercel.app/",
-        github:"https://github.com/codebucks27/react-sidebar"
+        demo:"rapid-truth-7949.on.fleek.co",
+        github:""
        
     },{
         id:5,
-        name:"Todo App(React + Redux)",
-        description:"A todo app build using Redux-toolkit and framer-motion for smooth animations.",
-        tags:["react","redux","framer-motion"],
+        name:"Demo-2",
+        description:"Demo-2",
+        tags:["react"],
         
-        demo:"http://react-redux-todo-app-git-main-codebucks27.vercel.app/",
-        github:"https://github.com/codebucks27/React-Redux-Todo-App"
+        demo:"autumn-wave-7318.on.fleek.co",
+        github:""
         
     },
     {
         id:6,
-        name:"Responsive Navigation Menu",
-        description:"A reponsive navbar menu component in ReactJS with react-router functionalities. Built from scratch.",
-        tags:["react","react-router","css"],
+        name:"Demo-3",
+        description:"Demo-3",
+        tags:["react"],
         
-        demo:"http://react-responsive-navbar-codebucks27.vercel.app/",
-        github:"https://github.com/codebucks27/React-responsive-navbar"
+        demo:"dawn-poetry-9073.on.fleek.co",
+        github:""
         
     },
     

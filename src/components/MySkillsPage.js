@@ -110,19 +110,19 @@ I love to create design which speaks, Keep it clean, minimal and simple.
 </ul>
 </Description>
 <Description>
-<strong>Tools</strong>
+{/* <strong>Tools</strong>
 <ul>
     <li>
        Figma
     </li>
     
-</ul>
+</ul> */}
 </Description>
 
             </Main>
             <Main>
 <Title>
-    <Develope width={40} height={40} /> Frontend Developer
+    <Develope width={40} height={40} /> Developer
 </Title>
 <Description>
 I value business or brand for which i'm creating, thus i enjoy bringing new ideas to life.
@@ -134,10 +134,10 @@ Html, Css, Js, React, Redux, Sass, Bootstrap, Tailwind, Firebase etc.
 </p>
 </Description>
 <Description>
-<strong>Tools</strong>
+{/* <strong>Tools</strong>
 <p>
 VScode, Github, Codepen etc.
-</p>
+</p> */}
 </Description>
 
             </Main>

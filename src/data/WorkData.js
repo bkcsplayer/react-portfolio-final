@@ -26,7 +26,7 @@ export const Work = [
         description:"Lightweight and fast response",
         tags:["Wordpress","React"],
         
-        demo:"http://devto-clone-codebucks27.vercel.app/",
+        demo:"https://withered-sea-0918.on.fleek.co/",
         github:""
     },
     {
@@ -35,26 +35,46 @@ export const Work = [
         description:"Demo-1",
         tags:["react"],
         
-        demo:"rapid-truth-7949.on.fleek.co",
+        demo:"https://summer-mountain-9847.on.fleek.co/",
         github:""
        
     },{
         id:5,
-        name:"Demo-2",
-        description:"Demo-2",
+        name:"Web-Demo",
+        description:"Web-Demo",
         tags:["react"],
         
-        demo:"autumn-wave-7318.on.fleek.co",
+        demo:"https://royal-night-0498.on.fleek.co/",
         github:""
         
     },
     {
         id:6,
-        name:"Demo-3",
-        description:"Demo-3",
+        name:"Web-Demo",
+        description:"Web-Demo",
         tags:["react"],
         
-        demo:"dawn-poetry-9073.on.fleek.co",
+        demo:"https://dawn-poetry-9073.on.fleek.co/",
+        github:""
+        
+    },
+    {
+        id:7,
+        name:"Web-Demo",
+        description:"Web-Demo",
+        tags:["react"],
+        
+        demo:"https://black-credit-1679.on.fleek.co/",
+        github:""
+        
+    },
+    {
+        id:8,
+        name:"Movie-List",
+        description:"API Projects",
+        tags:["react"],
+        
+        demo:"https://jolly-rain-6013.on.fleek.co/",
         github:""
         
     },

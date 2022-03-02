@@ -31,8 +31,8 @@ export const Work = [
     },
     {
         id:4,
-        name:"Projects",
-        description:"Demo-1",
+        name:"Free-Resume-builder",
+        description:"Resume-builder with React and Deployed on IPFS",
         tags:["react"],
         
         demo:"https://summer-mountain-9847.on.fleek.co/",
@@ -40,8 +40,8 @@ export const Work = [
        
     },{
         id:5,
-        name:"Web-Demo",
-        description:"Web-Demo",
+        name:"Covid-Tracker",
+        description:"API",
         tags:["react"],
         
         demo:"https://royal-night-0498.on.fleek.co/",
@@ -50,8 +50,8 @@ export const Work = [
     },
     {
         id:6,
-        name:"Web-Demo",
-        description:"Web-Demo",
+        name:"Personal-Web",
+        description:"Single Page Web with React",
         tags:["react"],
         
         demo:"https://dawn-poetry-9073.on.fleek.co/",
